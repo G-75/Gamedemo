@@ -1,0 +1,2 @@
+# Gamedemo
+Sistem kontrol edildi.
